@@ -79,4 +79,4 @@ Most of my work lives in private client repos (telecom, IoT, healthcare, fintech
 
 ---
 
-<p align="center"><i>Ukrainian (Native) · English (C1) · German (A2, learning) · Russian (Fluent)</i></p>
+<p align="center"><i>Ukrainian (Native) · English (C1) · German (A2, learning)</i></p>
