@@ -60,7 +60,7 @@ I work across the full stack with a backend lean: **Node.js & NestJS** at the co
 
 ### What I've shipped
 
-- **Telecom Provisioning Platform** — Node.js/NestJS services for eSIM & phone number provisioning, call routing, and VPN on a platform serving ~1M users; real-time call handling via SIP/VoIP.
+- **Telecom Provisioning Platform** — Node.js/NestJS services for eSIM & phone number provisioning, call routing, and VPN on a platform serving 1M+ users; real-time call handling via SIP/VoIP.
 - **Ride-Hailing Backend Modernization** — event-driven refactor of a legacy taxi backend with a Node.js WebSocket layer for real-time ride tracking.
 - **IoT Device Control** — MQTT-based device control via AWS IoT Core for real-time remote management.
 - **Analytics & BI Layer** — Firestore → BigQuery replication pipeline with Looker dashboards for business and usage metrics.
