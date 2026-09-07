@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Illia Kryvoshchenkov 👋</h1>
-<h3 align="center">Full-Stack Engineer (Backend-Leaning) · Node.js / NestJS / React / React Native</h3>
+<h3 align="center">Full-Stack Engineer · Node.js / NestJS / React / React Native</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/illia-kryvoshchenkov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
