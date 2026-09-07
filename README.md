@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Illia Kryvoshchenkov 👋</h1>
-<h3 align="center">Full-Stack Engineer · Node.js / NestJS / React / React Native</h3>
+<h3 align="center">Full-Stack Engineer (Backend-Leaning) · Node.js / NestJS / React / React Native</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/illia-kryvoshchenkov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -68,11 +68,13 @@ I work across the full stack with a backend lean: **Node.js & NestJS** at the co
 
 ---
 
-### GitHub stats
+### Let's connect
+
+Most of my work lives in private client repos (telecom, IoT, healthcare, fintech projects), so this profile won't show much public activity — happy to walk through the architecture and code on a call instead.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Illias42&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illias42&layout=compact&hide_border=true" />
+  <a href="https://linkedin.com/in/illia-kryvoshchenkov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:illiakryvoshchenkov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
